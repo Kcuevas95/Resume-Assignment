@@ -1,0 +1,191 @@
+body {
+    background-color: black;
+    margin: 0px;
+  
+}
+
+
+.header {
+    background-color: cornflowerblue;
+    width: 8in;
+    height: 2in;
+    position: relative;
+}
+
+#name {
+    font-family: 'Source Code Pro', monospace; 
+    font-weight: 700 ;
+}
+
+#career, #description {
+    font-family: 'Source Code Pro', monospace; 
+    font-weight: 400;
+
+}
+
+.info {
+    float: left;
+    margin-left: 40px;
+
+}
+
+.info2{
+    float:right;
+    margin-right: 40px;
+    margin-top: 2%;
+    text-align: right;
+    font-family: 'Source Code Pro', monospace; 
+    font-size: 14px;
+}
+
+.page1 {
+    float: left;
+    margin-left: 60px;
+    margin-right: 20px;
+    font-size: 14px;
+    margin-top: 5px;
+
+}
+
+#programming, #skills2, #education, #experience3 {
+    font-family: 'Source Code Pro', monospace;
+}
+
+.line {
+    border-left: 2px solid black;
+    height: 340px;
+    margin-left: 3%;
+    float: left;
+    position: relative;
+  }
+
+  #year1, #year2, #year3 {
+    position: absolute;
+    left: 2%;
+  }
+
+  #year2 {
+      bottom: 30.3%;
+  }
+
+  #year3 {
+      bottom: 22%;
+  }
+
+
+  #circle, #circle2, #circle3 {
+    vertical-align: middle;
+    width: 10px;
+    height: 10px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    left: 8.4%;
+  }
+
+#circle2 {
+    bottom: 32%;
+}
+
+#circle3 {
+    bottom: 23.5%;
+}
+
+#bachelor, #mdc, #mac, .list2, .list1 {
+    margin-left: 30px;
+}
+
+#fiu {
+    margin-left: 30px;
+    margin-top: 0px;
+    display: inline-block;
+    font-family: 'Source Code Pro', monospace;
+}
+
+
+#knowledge, #experience2, .list, .list2, .list4, .list1{
+    font-family: 'Source Code Pro', monospace;
+    font-size: 13px;
+}
+
+#mdc, #mac, #bachelor, #rc1, #dns1, #ag1 {
+    font-family: 'Source Code Pro', monospace;
+    font-size: 16px;
+}
+
+ #rc2, #dns2, #ag2 {
+    display: inline-block;
+    margin: 0px 10px;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.page2 {
+    float: left;
+    margin: 0 auto;
+    width: 50%;
+    font-size: 14px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.pages {
+    width: 8in;
+    height: 12in;
+    background-color: white;
+    margin: auto;
+    min-height: 11vh;
+    position: relative;
+}
+
+
+#box {
+    display: inline-block;
+    margin: 5px;
+    padding: 7px;
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 10%;
+    font-family: 'Source Code Pro', monospace;
+}
+
+
+
+#rc2, #dns2, #ag2 {
+    display: inline-block;
+    margin: 0px 10px;
+ 
+}
+
+.foot {
+    background-color: cornflowerblue;
+    width: 8in;
+    height: 0.7in;
+    position: absolute;
+    bottom: 0;
+    
+   
+}
+
+
+#footer1 {
+    float: left;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 25px;
+    margin-left: 40px;
+}
+
+#footer2 {
+    float: right;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 19.5px;
+    margin-right: 40px;
+} 
+
+
+
+
+
+
+
+
+
